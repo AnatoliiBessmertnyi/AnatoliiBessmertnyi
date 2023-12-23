@@ -34,4 +34,6 @@
 - [Postman]
   
 ## Статистика профиля
-!Anatoliy's GitHub stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnatoliiBessmertnyi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnatoliiBessmertnyi)](https://github.com/anuraghazra/github-readme-stats)
