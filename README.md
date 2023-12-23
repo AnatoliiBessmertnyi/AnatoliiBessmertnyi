@@ -5,10 +5,9 @@
 ###
 Python и программирование в целом поражают меня своей способностью моделировать почти любую ситуацию, которая происходит в нашей жизни, это очень увлекательно и безумно захватывает :)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <div align="center" dir="auto">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="300"  width="500" />
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="300"  width="800" />
 
 
 ## 🌱 В настоящее время я изучаю
