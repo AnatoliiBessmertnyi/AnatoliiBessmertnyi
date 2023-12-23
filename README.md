@@ -3,14 +3,13 @@
 <h3 align="center">Python developer student from Russia</h3>
 Я начинающий разработчик на Python из России. Python и программирование в целом поражают меня своей способностью моделировать почти любую ситуацию, которая происходит в нашей жизни, это очень увлекательно и безумно захватывает :)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## 🌱 В настоящее время я изучаю
 - Python
 - Backend
 - HTML
 - SQL
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 ## 📂 Мои проекты
 Все мои проекты доступны в моих репозиториях
 
