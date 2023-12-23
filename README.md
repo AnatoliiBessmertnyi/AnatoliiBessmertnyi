@@ -5,8 +5,6 @@
 ###
 Python и программирование в целом поражают меня своей способностью моделировать почти любую ситуацию, которая происходит в нашей жизни, это очень увлекательно и безумно захватывает :)
 
-###
-
 <div align="center" dir="auto">
   <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="400"  width="800" />
 </div>
