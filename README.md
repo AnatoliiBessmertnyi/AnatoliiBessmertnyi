@@ -21,7 +21,7 @@ Python и программирование в целом поражают мен
 
 ## Языки и инструменты
 ![Python]([ссылка](https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg))
-
+![https://www.example.com/image.jpg](https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg))
 - [Python]
 - [Django]
 - [RestApi]
