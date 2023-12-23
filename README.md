@@ -20,7 +20,7 @@ Python и программирование в целом поражают мен
 - Email: anatoliy.bessmertny@gmail.com
 
 ## Языки и инструменты
-<img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="Python">
+![Python]([ссылка](https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg))
 
 - [Python]
 - [Django]
