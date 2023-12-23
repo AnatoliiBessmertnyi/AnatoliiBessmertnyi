@@ -32,6 +32,7 @@ Python и программирование в целом поражают мен
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" width="50" height="50" style="max-width: 100%;"></a>
 </div>
 
+---
 
 <h3><span style="color: #3d85c6"> 📂My portfolio:</span></h3>
 <h3>Grocery_assistant</font></h3>
