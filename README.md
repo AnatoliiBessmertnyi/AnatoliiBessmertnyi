@@ -85,12 +85,6 @@ A fitness tracker software module that processes data for three types of workout
 
 ---
 
-<h3><span style="color: #3d85c6"> My GitHub Stats</span></h3>
-
-## 📫 Как со мной связаться
-- Telegram: @Hegem0n
-- Email: anatoliy.bessmertny@gmail.com
-
 ## Языки и инструменты
 <div dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50" style="max-width: 100%;"></a>&nbsp;  
@@ -111,9 +105,14 @@ A fitness tracker software module that processes data for three types of workout
 </div>
 
   
-## Статистика профиля
+<h3><span style="color: #3d85c6"> My GitHub Stats</span></h3>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnatoliiBessmertnyi)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnatoliiBessmertnyi)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=AnatoliiBessmertnyi)
+
+
+## 📫 Как со мной связаться
+- Telegram: @Hegem0n
+- Email: anatoliy.bessmertny@gmail.com
