@@ -21,6 +21,7 @@ Python и программирование в целом поражают мен
 
 ## Языки и инструменты
 ![https://www.example.com/image.jpg](https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg))
+<img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50" style="max-width: 100%;">
 - [Python]
 - [Django]
 - [RestApi]
