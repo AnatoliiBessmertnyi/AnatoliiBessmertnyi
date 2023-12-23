@@ -7,7 +7,7 @@ Python и программирование в целом поражают мен
 
 
 <div align="center" dir="auto">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="300"  width="800" />
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="400"  width="800" />
 
 
 ## 🌱 В настоящее время я изучаю
