@@ -38,4 +38,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnatoliiBessmertnyi)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=AnatoliiBessmertnyi)
