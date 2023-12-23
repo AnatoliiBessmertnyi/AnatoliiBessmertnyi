@@ -20,17 +20,6 @@ Python и программирование в целом поражают мен
 - Email: anatoliy.bessmertny@gmail.com
 
 ## Языки и инструменты
-<img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50" style="max-width: 100%;">
-<img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50" style="max-width: 100%;">
-<img src="https://github.com/devicons/devicon/raw/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="50" height="50" style="max-width: 100%;">
-
-  
-## Статистика профиля
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnatoliiBessmertnyi)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnatoliiBessmertnyi)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=AnatoliiBessmertnyi)
 <div dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50" style="max-width: 100%;"></a>&nbsp;  
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="50" height="50" style="max-width: 100%;"></a>&nbsp;
@@ -48,3 +37,11 @@ Python и программирование в целом поражают мен
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png"><img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" title="HTTP" width="50" height="50" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" width="50" height="50" style="max-width: 100%;"></a>
 </div>
+
+  
+## Статистика профиля
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnatoliiBessmertnyi)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnatoliiBessmertnyi)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=AnatoliiBessmertnyi)
