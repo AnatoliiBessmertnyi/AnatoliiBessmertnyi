@@ -20,23 +20,10 @@ Python и программирование в целом поражают мен
 - Email: anatoliy.bessmertny@gmail.com
 
 ## Языки и инструменты
-![https://www.example.com/image.jpg](https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg))
+<img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50" style="max-width: 100%;">
-- [Python]
-- [Django]
-- [RestApi]
-- [Sqlite]
-- [Postgresql]
-- [Windows]
-- [Docker]
-- [HTML]
-- [CSS]
-- [Nginx]
-- [Git]
-- [GitHub]
-- [VSCode]
-- [HTTP]
-- [Postman]
+<img src="https://github.com/devicons/devicon/raw/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="50" height="50" style="max-width: 100%;">
+
   
 ## Статистика профиля
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnatoliiBessmertnyi)](https://github.com/anuraghazra/github-readme-stats)
