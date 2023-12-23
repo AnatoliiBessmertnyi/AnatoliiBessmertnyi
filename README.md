@@ -1,16 +1,16 @@
-### Hi there 👋
+# Привет, мир 👋, меня зовут Анатолий!
+Я начинающий разработчик на Python.
 
-<!--
-**AnatoliiBessmertnyi/AnatoliiBessmertnyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я увлеченный начинающий разработчик бэкенда на Python из России. Python и программирование в целом поражают меня своей способностью моделировать почти любую ситуацию, которая происходит в нашей жизни, это очень увлекательно и безумно захватывает :)
 
-Here are some ideas to get you started:
+🌱 В настоящее время я изучаю Python, Backend, HTML, SQL
+📂 Все мои проекты доступны в моих репозиториях
+📫 Как со мной связаться:
+    ◦ Telegram: @Hegem0n
+    ◦ Email: anatoliy.bessmertny@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Языки и инструменты: Python  Django  RestApi  Sqlite  Postgresql  Windows  Docker  HTML CSS  Nginx  Git GitHub VSCode HTTP Postman Ubuntu
+
+!Anurag's GitHub stats
+
+!Top Langs
