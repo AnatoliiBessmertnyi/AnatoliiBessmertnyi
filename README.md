@@ -3,7 +3,7 @@
   </a>
 </h1>
 
-<h2 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>Я начинающий разработчик на Python</h2>
+<h2 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>Я разработчик на Python</h2>
 
 ###
 Python и программирование в целом поражают меня своей способностью моделировать почти любую ситуацию, которая происходит в нашей жизни, это очень увлекательно и безумно захватывает :)
