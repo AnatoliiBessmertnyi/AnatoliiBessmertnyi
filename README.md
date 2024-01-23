@@ -63,6 +63,21 @@ You can create your diary, read others', follow authors and enjoy there publicat
 
 ---
 
+<h3>Diary of transactions on the Steam site</font></h3>
+<p>
+<details>
+<summary>For more details click below</summary>
+You can create deal for items on the Steam trading platform, track current prices, which makes trading more convenient.
+![Social_network](https://github.com/AnatoliiBessmertnyi/AnatoliiBessmertnyi/blob/main/SteamItemCreateDeal.png)
+
+![Social_network](https://github.com/Den2605/Den2605/assets/123579969/9097a073-09a8-4ff2-b2ce-e4571c2ef3d7)
+
+<a href="https://github.com/AnatoliiBessmertnyi/steam_items">Project on git</a>
+</details>
+</p>
+
+---
+
 <h3>Books_reviews_platform</h3>
 <p>
 <details>
