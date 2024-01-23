@@ -63,7 +63,7 @@ You can create your diary, read others', follow authors and enjoy there publicat
 
 ---
 
-<h3>Diary of deals on the Steam</font></h3>
+<h3>Steam price Tracker</font></h3>
 <p>
 <details>
 <summary>For more details click below</summary>
