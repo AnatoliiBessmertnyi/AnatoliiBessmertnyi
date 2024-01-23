@@ -40,9 +40,9 @@ Python и программирование в целом поражают мен
 <details>
 <summary>For more details click below</summary>
 The Grocery Assistant app is a website where users will publish recipes, add other people's recipes to favorites and subscribe to publications by other authors.
+  
+![Grocery_assistant](https://github.com/Den2605/Den2605/assets/123579969/0dcc2f54-dc1f-44be-8f33-87157d297fe1)
 
-![Grocery_assistant]([https://github.com/Den2605/Den2605/assets/123579969/0dcc2f54-dc1f-44be-8f33-87157d297fe1]
-https://github.com/AnatoliiBessmertnyi/grocery_assistant
 <a href="https://github.com/AnatoliiBessmertnyi/grocery_assistant">Project on git</a>
 </details>
 </p>
