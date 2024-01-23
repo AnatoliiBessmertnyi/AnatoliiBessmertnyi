@@ -69,7 +69,7 @@ You can create your diary, read others', follow authors and enjoy there publicat
 <summary>For more details click below</summary>
 Here you can add your review to any book, rate it, cooment others' reviews.
 
-<a href="https://github.com/Den2605/books_reviews_platform">Project on git</a>
+<a href="https://github.com/AnatoliiBessmertnyi/books_reviews_platform">Project on git</a>
 </details>
 </p>
 
