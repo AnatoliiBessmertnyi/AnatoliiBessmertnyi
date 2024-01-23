@@ -81,7 +81,7 @@ Here you can add your review to any book, rate it, cooment others' reviews.
 <summary>For more details click below</summary>
 Bot assistant for parsing the status of homework verification in Yandex.Practicum.
 
-<a href="http://github.com/Den2605/telegram_bot">Project on git</a>
+<a href="https://github.com/AnatoliiBessmertnyi/homework_tg_bot">Project on git</a>
 </details>
 </p>
 
@@ -93,7 +93,7 @@ Bot assistant for parsing the status of homework verification in Yandex.Practicu
 <summary>For more details click below</summary>
 A fitness tracker software module that processes data for three types of workouts: running, walking and swimming.
 
-<a href="http://github.com/Den2605/fitness_tracker">Project on git</a>
+<a href="https://github.com/AnatoliiBessmertnyi/fitness_track_project">Project on git</a>
 
 </details>
 </p>
