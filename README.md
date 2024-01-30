@@ -3,7 +3,7 @@
   </a>
 </h1>
 
-<h3 align="center">🚀 I'm a passionate backend developer 🚀</h3>
+<h2 align="center">🚀 I'm a passionate backend developer 🚀</h2>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;🌟 I'm amazed at how Python and programming in general can model almost any situation that happens in our lives. It's incredibly fascinating and utterly captivating!</p>
 
@@ -17,7 +17,7 @@
 
 ---
 
-<h3><span style="color: #3d85c6"> 🛠️ Technologies & Tools</span></h3>
+<h2><span style="color: #3d85c6"> 🛠️ Technologies & Tools</span></h2>
 
 |Main|
 |:-:|
@@ -31,8 +31,8 @@
 
 ---
 
-<h3><span style="color: #3d85c6"> 📂My portfolio:</span></h3>
-<h3>Grocery_assistant</font></h3>
+<h2><span style="color: #3d85c6"> 📂My portfolio:</span></h2>
+<h3>🛒 Grocery_assistant</h3>
 <p>
 <details>
 <summary>For more details click below</summary>
@@ -44,7 +44,7 @@ The Grocery Assistant app is a website where users will publish recipes, add oth
 </details>
 </p>
 
-<h3>Social network live journal</font></h3>
+<h3>📖 Social_network_live_journal</h3>
 <p>
 <details>
 <summary>For more details click below</summary>
@@ -56,7 +56,7 @@ You can create your diary, read others', follow authors and enjoy there publicat
 </details>
 </p>
 
-<h3>Steam price Tracker</font></h3>
+<h3>💰 Steam_price_Tracker</h3>
 <p>
 <details>
 <summary>For more details click below</summary>
@@ -69,7 +69,7 @@ You can create deal for items on the Steam trading platform, track current price
 </details>
 </p>
 
-<h3>Books_reviews_platform</h3>
+<h3>📚 Books_reviews_platform</h3>
 <p>
 <details>
 <summary>For more details click below</summary>
@@ -79,7 +79,7 @@ Here you can add your review to any book, rate it, cooment others' reviews.
 </details>
 </p>
 
-<h3>Telegram_bot </font></h3>
+<h3>🤖 Telegram_bot</h3>
 <p>
 <details>
 <summary>For more details click below</summary>
@@ -89,7 +89,7 @@ Bot assistant for parsing the status of homework verification in Yandex.Practicu
 </details>
 </p>
 
-<h3>Fitness_tracker </font></h3>
+<h3>🏃‍♂️ Fitness_tracker</h3>
 <p>
 <details>
 <summary>For more details click below</summary>
@@ -102,7 +102,7 @@ A fitness tracker software module that processes data for three types of workout
 
 ---
   
-<h3><span style="color: #3d85c6"> My GitHub Stats</span></h3>
+<h2><span style="color: #3d85c6"> :bar_chart: My GitHub Stats</span></h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnatoliiBessmertnyi)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnatoliiBessmertnyi)](https://github.com/anuraghazra/github-readme-stats)
@@ -110,6 +110,6 @@ A fitness tracker software module that processes data for three types of workout
 ![](https://komarev.com/ghpvc/?username=AnatoliiBessmertnyi)
 
 ---
-  
-## 📫 **Contacts**
+
+<h2><span style="color: #3d85c6">📫 Contacts</span></h2>
 <a href="https://t.me/Hegem0n"><img src="https://img.shields.io/badge/@Hegem0n-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="@Hegem0n" /></a> <a href="mailto:anatoliy.bessmertny@outlook.com"><img src="https://img.shields.io/badge/-anatoliy.bessmertny@gmail.com-%2314354c.svg?style=flat&logo=microsoft-outlook&logoColor=blue" alt="anatoliy.bessmertny@outlook.com" /></a>
