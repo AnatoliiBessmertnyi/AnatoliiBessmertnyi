@@ -126,3 +126,4 @@ A fitness tracker software module that processes data for three types of workout
 ## 📫 Как со мной связаться
 - Telegram: @Hegem0n
 - Email: anatoliy.bessmertny@gmail.com
+| :envelope: **Contacts**| <a href="https://t.me/Hegem0n"><img src="https://img.shields.io/badge/@weleldev-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="@Hegem0n" /></a> <a href="mailto:anatoliy.bessmertny@gmail.com"><img src="https://img.shields.io/badge/-anatoliy.bessmertny@gmail.com-%2314354c.svg?style=flat&logo=gmail&logoColor=red" alt="anatoliy.bessmertny@gmail.com" /></a> |
