@@ -3,14 +3,17 @@
   </a>
 </h1>
 
-<h2 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>Я разработчик на Python</h2>
+<h3 align="center">🚀 I'm a passionate backend developer 🚀</h3>
 
-###
-Python и программирование в целом поражают меня своей способностью моделировать почти любую ситуацию, которая происходит в нашей жизни, это очень увлекательно и безумно захватывает :)
+<p>&nbsp;&nbsp;&nbsp;&nbsp;🌟 I'm amazed at how Python and programming in general can model almost any situation that happens in our lives. It's incredibly fascinating and utterly captivating!</p>
 
-<div align="center" dir="auto">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="400"  width="800" />
-</div>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;🎯 I specialize in backend development using Python. I enjoy creating efficient and scalable solutions that can handle large volumes of data and provide high performance.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;🌍 My goal is to use my skills and knowledge to create products that can improve people's lives and make the world a little better. Let's work together to create something amazing!</p>
+
+<p align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="300"  width="600" />
+</p>
 
 ---
 
