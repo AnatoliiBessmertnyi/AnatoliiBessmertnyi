@@ -69,8 +69,8 @@ You can create your diary, read others', follow authors and enjoy there publicat
 <summary>For more details click below</summary>
 You can create deal for items on the Steam trading platform, track current prices, which makes trading more convenient.
 
-![Steam Item Index](SteamItemIndex.png)
-![Steam Item Create Deal](SteamItemCreateDeal.png)
+![Steam Item Index](images/SteamItemIndex.png)
+![Steam Item Create Deal](images/SteamItemCreateDeal.png)
 
 <a href="https://github.com/AnatoliiBessmertnyi/steam_items">Project on git</a>
 </details>
