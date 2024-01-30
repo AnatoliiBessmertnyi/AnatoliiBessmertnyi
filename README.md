@@ -12,6 +12,7 @@ Python и программирование в целом поражают мен
   <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="400"  width="800" />
 </div>
 
+---
 
 <h3><span style="color: #3d85c6"> 🛠️ Technologies & Tools</span></h3>
 
@@ -24,25 +25,6 @@ Python и программирование в целом поражают мен
 |<img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" alt="FastAPI" /> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="Mongo DB" /> <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JS" /> |
 |**Tools**|
 |<img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" /> <img src="https://img.shields.io/badge/Postman-%23ff6c37.svg?logo=postman&logoColor=white&style=flat" alt="Postman" /> <img src="https://img.shields.io/badge/ChatGPT-%23000000.svg?style=flat&logo=openai&logoColor=white" alt="ChatGPT" /> <img src="https://img.shields.io/badge/Mira-%23000000.svg?style=flat&logo=mira&logoColor=white" alt="Mira" /> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white" alt="Notion" />|
-
-<h3><span style="color: #3d85c6"> 🌱My stack will increase, but now it's as follow:</span></h3>
-<div dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50" style="max-width: 100%;"></a>&nbsp;  
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="50" height="50" style="max-width: 100%;"></a>&nbsp;
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png"><img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" title="RestApi" alt="RestApi" width="50" height="50" style="max-width: 100%;"></a>&nbsp;
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/sqlite/sqlite-original-wordmark.svg" title="Sqlite" alt="Sqlite" width="50" height="50" style="max-width: 100%;"></a>&nbsp;  
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="50" height="50" style="max-width: 100%;"></a>&nbsp;
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50" style="max-width: 100%;"></a>&nbsp;
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png"><img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" title="Windows" alt="Windows" width="50" height="50" style="max-width: 100%;"></a>&nbsp;
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50" style="max-width: 100%;"></a>&nbsp;
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50" style="max-width: 100%;"></a>&nbsp;
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="50" height="50" style="max-width: 100%;"></a>&nbsp;
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" width="50" height="50" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original-wordmark.svg" title="GitHub" width="50" height="50" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" title="VSCode" width="50" height="50" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png"><img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" title="HTTP" width="50" height="50" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" width="50" height="50" style="max-width: 100%;"></a>
-</div>
 
 ---
 
@@ -59,8 +41,6 @@ The Grocery Assistant app is a website where users will publish recipes, add oth
 </details>
 </p>
 
----
-
 <h3>Social network live journal</font></h3>
 <p>
 <details>
@@ -72,8 +52,6 @@ You can create your diary, read others', follow authors and enjoy there publicat
 <a href="https://github.com/AnatoliiBessmertnyi/social_network_final">Project on git</a>
 </details>
 </p>
-
----
 
 <h3>Steam price Tracker</font></h3>
 <p>
@@ -88,8 +66,6 @@ You can create deal for items on the Steam trading platform, track current price
 </details>
 </p>
 
----
-
 <h3>Books_reviews_platform</h3>
 <p>
 <details>
@@ -100,8 +76,6 @@ Here you can add your review to any book, rate it, cooment others' reviews.
 </details>
 </p>
 
----
-
 <h3>Telegram_bot </font></h3>
 <p>
 <details>
@@ -111,8 +85,6 @@ Bot assistant for parsing the status of homework verification in Yandex.Practicu
 <a href="https://github.com/AnatoliiBessmertnyi/homework_tg_bot">Project on git</a>
 </details>
 </p>
-
----
 
 <h3>Fitness_tracker </font></h3>
 <p>
@@ -134,6 +106,7 @@ A fitness tracker software module that processes data for three types of workout
 
 ![](https://komarev.com/ghpvc/?username=AnatoliiBessmertnyi)
 
+---
   
 ## 📫 **Contacts**
 <a href="https://t.me/Hegem0n"><img src="https://img.shields.io/badge/@Hegem0n-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="@Hegem0n" /></a> <a href="mailto:anatoliy.bessmertny@outlook.com"><img src="https://img.shields.io/badge/-anatoliy.bessmertny@gmail.com-%2314354c.svg?style=flat&logo=microsoft-outlook&logoColor=blue" alt="anatoliy.bessmertny@outlook.com" /></a>
