@@ -13,6 +13,18 @@ Python и программирование в целом поражают мен
 </div>
 
 
+<h3><span style="color: #3d85c6"> 🛠️ Technologies & Tools</span></h3>
+
+|Main|
+|:-:|
+|<img src="https://img.shields.io/badge/Python-%2314354c.svg?logo=Python&logoColor=white&style=flat" alt="Python" /> <img src="https://img.shields.io/badge/Django-%23092e20.svg?logo=django&logoColor=white&style=flat" alt="Django" /> <img src="https://img.shields.io/badge/Postgres-%23336791.svg?logo=postgresql&logoColor=white&style=flat" alt="Postgres" /> <img src="https://img.shields.io/badge/SQLite-%23003b57.svg?logo=sqlite&logoColor=white&style=flat" alt="SQLite" /> <img src="https://img.shields.io/badge/REST API-%2314354c.svg?logo=rest&logoColor=white&style=flat" alt="REST API" /> <img src="https://img.shields.io/badge/Windows-%230078d6.svg?style=flat&logo=windows&logoColor=white" alt="Windows" />  <img src="https://img.shields.io/badge/git-%23d22128.svg?logo=git&logoColor=white&style=flat" alt="Git" /> <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Docker Compose-%23d22128.svg?style=flat&logo=docker&logoColor=white" alt="Dcoker Compose" /> |
+|**Experienced**|
+|<img src="https://img.shields.io/badge/Linux-%23fcc624.svg?logo=linux&logoColor=white&style=flat" alt="Linux" /> <img src="https://img.shields.io/badge/HTML5-%23e34f26.svg?logo=html5&logoColor=white&style=flat" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-%231572b6.svg?logo=css3&logoColor=white&style=flat" alt="CSS3" /> <img src="https://img.shields.io/badge/Bootstrap-%237952b3.svg?logo=bootstrap&logoColor=white&style=flat" alt="Bootstrap" /> <img src="https://img.shields.io/badge/aiogram 3-%2300ADD8.svg?style=flat&logo=telegram&logoColor=white" alt="aiogram 3" /> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white" alt="nginx" /> <img src="https://img.shields.io/badge/HTTP-%232957a5.svg?logo=http&logoColor=white&style=flat" alt="HTTP" /> |
+|**Explore & Use**|
+|<img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" alt="FastAPI" /> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="Mongo DB" /> <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JS" /> |
+|**Tools**|
+|<img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" /> <img src="https://img.shields.io/badge/Postman-%23ff6c37.svg?logo=postman&logoColor=white&style=flat" alt="Postman" /> <img src="https://img.shields.io/badge/ChatGPT-%23000000.svg?style=flat&logo=openai&logoColor=white" alt="ChatGPT" /> <img src="https://img.shields.io/badge/Mira-%23000000.svg?style=flat&logo=mira&logoColor=white" alt="Mira" /> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white" alt="Notion" />|
+
 <h3><span style="color: #3d85c6"> 🌱My stack will increase, but now it's as follow:</span></h3>
 <div dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50" style="max-width: 100%;"></a>&nbsp;  
