@@ -112,4 +112,4 @@ A fitness tracker software module that processes data for three types of workout
 ---
 
 <h2><span style="color: #3d85c6">📫 Contacts</span></h2>
-<a href="https://t.me/Hegem0n"><img src="https://img.shields.io/badge/@Hegem0n-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="@Hegem0n" /></a> <a href="mailto:anatoliy.bessmertny@outlook.com"><img src="https://img.shields.io/badge/-anatoliy.bessmertny@gmail.com-%2314354c.svg?style=flat&logo=microsoft-outlook&logoColor=blue" alt="anatoliy.bessmertny@outlook.com" /></a>
+<a href="https://t.me/Hegem0n"><img src="https://img.shields.io/badge/@Hegem0n-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="@Hegem0n" /></a> <a href="mailto:anatoliy.bessmertny@outlook.com"><img src="https://img.shields.io/badge/-anatoliy.bessmertny@outlook.com-%2314354c.svg?style=flat&logo=microsoft-outlook&logoColor=blue" alt="anatoliy.bessmertny@outlook.com" /></a>
