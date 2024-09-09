@@ -79,13 +79,14 @@ Here you can add your review to any book, rate it, cooment others' reviews.
 </details>
 </p>
 
-<h3>🤖 Telegram_bot</h3>
+<h3>🤖 ChatBot High Education</h3>
 <p>
 <details>
 <summary>For more details click below</summary>
-Bot assistant for parsing the status of homework verification in Yandex.Practicum.
+Chat Bot for High Education
 
-<a href="https://github.com/AnatoliiBessmertnyi/homework_tg_bot">Project on git</a>
+![ChatBot](images/tgbot.png)
+<a href="https://github.com/AnatoliiBessmertnyi/ChatBot-High-Education">Project on git</a>
 </details>
 </p>
 
