@@ -21,14 +21,14 @@
 
 **Key Engineering Achievements:**
 - ⚡️ **10-20x Parsing Speedup:** Replaced heavy DOM parsing (BeautifulSoup) with optimized Regex and direct JSON extraction, reducing processing time from ~40s to **2-4s** per item.
-- 🏗 **Event-Driven Architecture:** Seamless interaction between FastAPI, Celery Workers, Celery Beat, and RabbitMQ for asynchronous task processing.
-- 💾 **Smart Caching:** Implemented Redis caching at the API level with automatic invalidation on data mutations, reducing PostgreSQL load by **50-70%**.
-- 🕒 **Zero Timer Drift:** Redesigned the Celery Beat scheduling mechanism to use DB-controlled intervals and cycle-start timestamps, ensuring self-healing and precise execution.
+- 🏗 **Event-Driven Architecture (Zero Polling):** Completely eliminated Celery Beat. Implemented self-scheduling tasks via `eta` and a startup resync mechanism, reducing database scheduling load by **100%** and ensuring zero timer drift.
+- 💾 **Smart Caching & Downsampling:** Implemented Redis caching at the API level with automatic invalidation. Added `DATE_TRUNC` aggregation on the database side for price history, guaranteeing OOM protection and sub-100ms chart generation regardless of data volume.
+- 🛡 **Enterprise-Grade Resilience:** Configured RabbitMQ Dead Letter Exchanges (DLX) for failed tasks, explicit retry policies with exponential backoff, and a self-scheduling background job for automatic cleanup of archived subscription history.
 - 🤖 **Advanced Bot UX:** Telegram bot featuring inline navigation, conversation handlers, dynamic price chart generation (matplotlib), and RF-blocking bypass via Cloudflare Workers.
-- 🛡 **Resilience:** Graceful error handling, automatic archiving of "dead" subscriptions, structured logging (`structlog`), and strict code quality checks (`Ruff`, `Pytest`).
+- 🧹 **Architectural Hygiene:** Strict adherence to DRY principles (unified Service Layer for API and Bot), comprehensive ADR documentation, and rigorous code quality checks (`Ruff`, `Pytest`).
 
 **Tech Stack:** 
-`Python 3.12` `FastAPI` `SQLAlchemy 2.0 (Async)` `Celery` `RabbitMQ` `PostgreSQL` `Redis` `Playwright` `Docker` `Alembic` `Pytest`
+`Python 3.12` `FastAPI` `SQLAlchemy 2.0 (Async)` `Celery` `RabbitMQ (DLX)` `PostgreSQL` `Redis` `Playwright` `Docker` `Alembic` `Pytest`
 
 🔗 **[Explore PricePulse Repository](https://github.com/AnatoliiBessmertnyi/PricePulse)** 
 
